@@ -22,7 +22,7 @@ Apresentar os dados
 
 ## Escopo e variáveis:
 
-Variáveis blobais e locais
+Variáveis globais e locais
 Constantes
 
 ## Tipos de dados
@@ -33,23 +33,31 @@ Number: 2, 1.4
 
 # Operadores
 
-- {X}Operadores de atribuição de valor
-- {x}Operador de concatenação
+- {X} Operadores de atribuição de valor
+- {x} Operador de concatenação
 
 ## Estruturas de dados
 
 ### Arrays
 
-- {x}Uma lista que contém qualquer tipo de dados
+- {x} Uma lista que contém qualquer tipo de dados
 
 ### Objetos:
 
-- {x}Atributos e métodos
-- {x}Criação e manipulação de objetos
-- {x}Acesso a propriedades de objetos
+- {x} Atributos e métodos
+- {x} Criação e manipulação de objetos
+- {x} Acesso a propriedades de objetos
 
 ### Functions
 
 - {x} criar, passar argumento
 - {x} executar
 - {x} arrow function / named function
+
+# Estrutura de repetição
+
+- {x} while
+
+# Condicionais
+
+- {} switch
