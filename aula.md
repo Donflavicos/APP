@@ -6,7 +6,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 > ## Algoritmo ##: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
-- {x}Comentários
+- [x] Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, automáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -29,35 +29,44 @@ Constantes
 
 Strings (textos): "",'', ``
 Number: 2, 1.4
-- {x}Functions
+- [x] Functions
 
 # Operadores
 
-- {X} Operadores de atribuição de valor
-- {x} Operador de concatenação
+- [x] Operadores de atribuição de valor
+- [x] Operador de concatenação
 
 ## Estruturas de dados
 
 ### Arrays
 
-- {x} Uma lista que contém qualquer tipo de dados
+- [x] Uma lista que contém qualquer tipo de dados
 
 ### Objetos:
 
-- {x} Atributos e métodos
-- {x} Criação e manipulação de objetos
-- {x} Acesso a propriedades de objetos
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
 
 ### Functions
 
-- {x} criar, passar argumento
-- {x} executar
-- {x} arrow function / named function
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function / named function
 
 # Estrutura de repetição
 
-- {x} while
+- [x] while
 
 # Condicionais
 
-- {x} switch
+- [x] switch
+
+# Módulos em Node.js
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programamção assíncrona e Promises:
+
+-[x] Uso de funções assíncronas (async/await)
