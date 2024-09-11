@@ -3,5 +3,6 @@
     - [x]Metas realizadas
     - [x]Metas abertas
 - [x] Marcar/Desmarcar metas concluídas
-- [x]Remover metas
-- [x]Sistema de mensagem
+- [x] Remover metas
+- [x] Sistema de mensagem
+- [x] Persistir Dados: Sistema de salvar/carregar metas

@@ -70,6 +70,13 @@ Apresentar os dados
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.josn)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x] JSON.stringfy(): transforma de JS para JSON
 
 ## Programamção assíncrona e Promises:
 
