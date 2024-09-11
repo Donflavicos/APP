@@ -3,11 +3,11 @@
 Maneira de dar instruções ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-> ## Algoritmo ##: Sequência de passos lógica e finita para resolução de um problema.
+> ## Algoritmo ## : Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
-- [x] Comentários
-- [x] Declaração de variáveis (const, let)
+- Comentários
+- Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (function, object, array)
@@ -43,7 +43,7 @@ Apresentar os dados
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dados
-- [x] Métodos de array: push, [find, forEach, filter] : HDF{Higher Order Functions}
+- [x] Métodos de array: push, [find, forEach, filter, map] : HDF{Higher Order Functions}
 
 ### Objetos:
 
